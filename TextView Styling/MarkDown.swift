@@ -13,7 +13,7 @@
 import SwiftUI
 
 struct MarkDown: View {
-    let sample: LocalizedStringKey = "With markdown you can set text to **bold**, *italics*, ~strikethrough~ or `monospaced text` simply by marking it up.  You can even add links to your text like this for a web site [Createch Solutions](https://www.createchsol.com.)"
+    let sample: LocalizedStringKey = "With markdown you can set text to **bold**, *italics*, ~strikethrough~ or `monospaced text` simply by marking it up.  You can even add links to your text like this for a web site [Createch Solutions](https://www.createchsol.com)."
 
     var body: some View {
         NavigationStack {
